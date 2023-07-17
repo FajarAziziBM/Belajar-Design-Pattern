@@ -1,0 +1,12 @@
+Pendahuluan 
+
+Apa itu design pattern 
+	Design pattern merupakan solusi dari permasalahan-permasalahan umum yang sering terjadi dalam membuat software.
+	design pattern bukanlah hal yang bisa ditraslate ke dalam kode program secara langsung. Melainkan hanya template dan panduan cara menyelesaikan permasalahan.
+
+Siapa yang butuh belajar design patterns ?
+	semua software developer yang ingin membuat desain software dengan lebih baik.
+
+keuntungan menggunakan design patterns ?
+-Desain software lebih baik
+-Software mudah untuk di maintenance
